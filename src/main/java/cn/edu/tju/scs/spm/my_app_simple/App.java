@@ -1,7 +1,7 @@
 package cn.edu.tju.scs.spm.my_app_simple;
 
 /**
- * Hello world!
+ * Hello team members!
  *
  */
 public class App 
