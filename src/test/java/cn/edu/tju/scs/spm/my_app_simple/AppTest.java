@@ -14,6 +14,6 @@ public class AppTest extends TestCase {
 	public void testWelcome() {
 		App app = new App();
 		String result = app.welcome("a");
-		assertEquals(result, "Hello a!");
+		assertEquals(result, "Hello, a!");
 	}
 }
