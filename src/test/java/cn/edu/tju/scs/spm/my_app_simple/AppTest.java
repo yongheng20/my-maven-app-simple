@@ -1,6 +1,5 @@
 package cn.edu.tju.scs.spm.my_app_simple;
 
-import static org.junit.Assert.*;
 import org.junit.Test;
 
 import junit.framework.TestCase;
