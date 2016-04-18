@@ -10,6 +10,7 @@ public class App
     {
         System.out.println(new App().welcome("Yongheng"));
         System.out.println(new App().welcome("Li Yuze"));
+        System.out.println(new App().welcome("Wang Jingwen"));
     }
     
     public String welcome(String name) {
