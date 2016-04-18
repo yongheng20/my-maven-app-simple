@@ -12,7 +12,8 @@ public class App
         System.out.println(new App().welcome("Li Yuze"));
         System.out.println(new App().welcome("Zheng Yifeng"));
         System.out.println(new App().welcome("Wang Jingwen"));        
-        System.out.println(new App().welcome("Zhao Junting"));
+        System.out.println(new App().welcome("Zhao Junting"));     
+        System.out.println(new App().welcome("Wang Beini"));
     }
     
     public String welcome(String name) {
